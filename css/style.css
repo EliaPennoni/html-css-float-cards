@@ -2,7 +2,9 @@
     margin: 0%;
     box-sizing: border-box;
     padding: 0%;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Fredoka One', sans-serif;
+    
+
 }
 
 h1{
@@ -51,21 +53,24 @@ img{
     margin-top: 55px; margin-left: 30px;
     float: left; 
     width: calc(33.33% - 40px);
-    
-    
-    
+    line-height: 20px;
+    font-size: 12px;
 }
-
+    
 h4{
     margin-top: 5px;
 }
-
+    
 .lavoro{
     margin-top: 5px;
 }
 
+
+
+
+
 .mailto{
-    margin top:5px;
+    margin-top:5px;
     
 }
 
@@ -73,8 +78,4 @@ a{
     color: lightblue;
 }
 
-.box{
-    
-
-}
 
